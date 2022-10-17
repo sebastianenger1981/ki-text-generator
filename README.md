@@ -1,9 +1,7 @@
-# Beispiel Software in Python zur Nutzung für KI Text Generator Anwendungen
+# KI Text Generator - Beispiel Software in Python zur Nutzung für Text Erstellung Anwendungen
 
-<strong><h1>KI Text Generator > https://www.unaique.net/</h1></strong><br>
-<strong><h2>Text Generator deutsch > https://www.artikelschreiber.com/</h2></strong><br>
-<a href="https://www.deepl.com/translator" rel="follow">TEXT</a>
-<strong> </strong>
+<strong><h1><a href="https://www.unaique.net/" title="KI Text Generator auf https://www.unaique.net/">KI Text Generator</a> https://www.unaique.net/</h1></strong><br>
+<strong><h2><a href="https://www.artikelschreiber.com/" title="Text Generator auf https://www.artikelschreiber.com/">Text Generator deutsch</a> https://www.artikelschreiber.com/</h2></strong><br>
 
 Weitere Projekte, die automatisch Texte schreiben und dafür Künstliche Intelligenz nutzen:<br>
 <br><br>
