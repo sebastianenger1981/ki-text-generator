@@ -2,7 +2,7 @@
 
 <strong><h1>KI Text Generator > https://www.unaique.net/</h1></strong><br>
 <strong><h2>Text Generator deutsch > https://www.artikelschreiber.com/</h2></strong><br>
-<a href="https://www.deepl.com/translator">TEXT</a>
+<a href="https://www.deepl.com/translator" rel="follow">TEXT</a>
 <strong> </strong>
 
 Weitere Projekte, die automatisch Texte schreiben und dafür Künstliche Intelligenz nutzen:<br>
