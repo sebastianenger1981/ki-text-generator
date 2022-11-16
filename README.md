@@ -13,7 +13,10 @@ https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.
 https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
-
+<ul>
+		<li><a href="https://huggingface.co/spaces/senger/AI-TextGenerator">https://huggingface.co/spaces/senger/AI-TextGenerator</a></li>
+				<li><a href="https://huggingface.co/spaces/SebastianEnger/textgenerator">https://huggingface.co/spaces/SebastianEnger/textgenerator</a></li>
+</ul>
 
 Freunde:<br>
 https://linktr.ee/textgenerator<br>
