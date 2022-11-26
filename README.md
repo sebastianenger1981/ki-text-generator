@@ -14,9 +14,13 @@ https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI
 https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
 <ul>
-		<li><a href="https://huggingface.co/spaces/senger/AI-TextGenerator">https://huggingface.co/spaces/senger/AI-TextGenerator</a></li>
-				<li><a href="https://huggingface.co/spaces/SebastianEnger/textgenerator">https://huggingface.co/spaces/SebastianEnger/textgenerator</a></li>
+<li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
 </ul>
 
 Freunde:<br>
-https://linktr.ee/textgenerator<br>
+• https://linktr.ee/textgenerator<br>
+• https://linktr.ee/textgenerator<br>
+• https://muckrack.com/markus-muller<br>
+• https://linktr.ee/fachanwalt<br>
+• https://linktr.ee/tarotcardreading<br>
+• https://muckrack.com/cecile-tarot<br>
