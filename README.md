@@ -17,6 +17,7 @@ https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog sch
 <li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
 </ul>
 
+https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
 Freunde:<br>
 • https://linktr.ee/textgenerator<br>
 • https://muckrack.com/markus-muller<br>
