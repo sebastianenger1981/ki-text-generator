@@ -15,6 +15,7 @@ https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | 
 https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
 <ul>
 <li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
+<li>https://rechthaben.net/beratung/steuer-2022/</li>
 </ul>
 
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
