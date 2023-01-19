@@ -16,6 +16,7 @@ https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog sch
 <ul>
 <li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
 <li>https://rechthaben.net/beratung/steuer-2022/</li>
+<li>https://rechthaben.net/beratung/grundsteuererklaerung/</li>
 </ul>
 
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
