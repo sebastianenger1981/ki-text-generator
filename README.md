@@ -7,11 +7,9 @@ Weitere Projekte, die automatisch Texte schreiben und dafür Künstliche Intelli
 <br><br>
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com<br>
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/en/blog/ - ArtikelSchreiber Blog EN | ArtikelSchreiber.com<br>
-https://www.artikelschreiber.com/de/blog/ - ArtikelSchreiber Blog DE  | ArtikelSchreiber.com<br>
+https://www.artikelschreiber.com/texts/ - ArtikelSchreiber Blog EN | ArtikelSchreiber.com<br>
 https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET <br>
 https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
-https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com<br>
 <a href="https://www.artikelschreiben.com/">Artikel schreiben mit ChatGPT KI | ArtikelSchreiben.com</a><br>
 <ul>
 <li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
