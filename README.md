@@ -16,6 +16,7 @@ https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI
 <li>https://rechthaben.net/beratung/steuer-2022/</li>
 <li>https://rechthaben.net/beratung/grundsteuererklaerung/</li>
 <li>https://rechthaben.net/beratung/grillen-im-essen/</li>
+<li>https://rechthaben.net/jura/steueroptimierung/</li>
 </ul>
 
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
@@ -25,3 +26,7 @@ Freunde:<br>
 • https://linktr.ee/fachanwalt<br>
 • https://linktr.ee/tarotcardreading<br>
 • https://muckrack.com/cecile-tarot<br>
+• https://twitter.com/thelaurafaye<br>
+• https://linktr.ee/laurafaye<br>
+• https://calendly.com/laurafaye/60min<br>
+• https://www.patreon.com/LauraFaye<br>
