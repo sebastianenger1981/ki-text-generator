@@ -17,6 +17,7 @@ https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI
 <li>https://rechthaben.net/beratung/grundsteuererklaerung/</li>
 <li>https://rechthaben.net/beratung/grillen-im-essen/</li>
 <li>https://rechthaben.net/jura/steueroptimierung/</li>
+<li>https://rechthaben.net/allgemein/funkuebertragung-im-mobilfunk/</li>
 </ul>
 
 https://rechthaben.net/beratung/konzentration-auf-kernkompetenzen-durch-betreibermodelle/<br>
