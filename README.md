@@ -11,8 +11,10 @@ https://www.artikelschreiber.com/texts/ - ArtikelSchreiber Blog EN | ArtikelSchr
 https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET <br>
 https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET<br>
 <a href="https://www.artikelschreiben.com/">Artikel schreiben mit ChatGPT KI | ArtikelSchreiben.com</a><br>
-<a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a> 
-<a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a>
+
+<li><a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a></li>   <br>
+<li><a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a></li>  <br>
+
 <ul>
 <li><a href="https://rechthaben.net/gesundheit/ode-an-die-erzengel/">https://rechthaben.net/gesundheit/ode-an-die-erzengel/</a></li>
 <li>https://rechthaben.net/beratung/steuer-2022/</li>
