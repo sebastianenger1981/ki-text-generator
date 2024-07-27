@@ -34,14 +34,12 @@ Freunde:<br>
 • https://linktr.ee/textgenerator<br>
 • https://muckrack.com/markus-muller<br>
 • https://linktr.ee/fachanwalt<br>
-• https://linktr.ee/tarotcardreading<br>
-• https://muckrack.com/cecile-tarot<br>
-• https://twitter.com/thelaurafaye<br>
-• https://linktr.ee/laurafaye<br>
-• https://calendly.com/laurafaye/60min<br>
-• https://www.patreon.com/LauraFaye<br>
 
-<li>Veröffentlichung von: <a href="https://rechthaben.net/beratung/schufa-score-und-profiling-formel/" target='_self' hreflang='de' title="Schufa Score: Formel und Profiling leicht erklärt">Schufa Score: Formel und Profiling leicht erklärt</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/lifestyle/gedicht-mgtow-men-going-their-own-way/" target='_self' hreflang='de' title="Gedicht: MGTOW - Men Going Their Own Way">Gedicht: MGTOW - Men Going Their Own Way</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/lifestyle/gedicht-your-beautiful-blue-eyes/" target='_self' hreflang='de' title="Gedicht: Your beautiful blue Eyes (für Laura Faye)">Gedicht: Your beautiful blue Eyes (für Laura Faye)</a></li>
-				<li>Veröffentlichung von: <a href="https://rechthaben.net/beratung/feststellung-der-staatsangehoerigkeit/" target='_self' hreflang='de' title="Feststellung der deutschen Staatsangehörigkeit">Feststellung der deutschen Staatsangehörigkeit</a></li>
+<li role="listitem"><a href="https://de.slideshare.net/slideshow/wie-kann-ich-eine-inkasso-forderung-abwehren-www-unaique-net/270507889" rel="follow" title="SlideShare: Inkasso Forderung Abwehren">SlideShare: Inkasso Forderung Abwehren</a></li>
+				<li role="listitem"><a href="https://de.scribd.com/document/753386955/Wie-Kann-Ich-Eine-Inkasso-Forderung-Abwehren-www-unaique-net" rel="follow" title="Scribd: Inkasso Forderung Abwehren">Scribd: Inkasso Forderung Abwehren</a></li>
+				<li role="listitem"><a href="https://leanpub.com/wie_kann_ich_eine_inkasso_forderung_abwenden/upload" rel="follow" title="Leanpub: Inkasso Forderung Abwenden">Leanpub: Inkasso Forderung Abwenden</a></li>
+				<li role="listitem"><a href="https://www.academia.edu/122346756/Wie_kann_ich_eine_Inkasso_Forderung_abwehren_www_unaique_net_" rel="follow" title="Academia: Inkasso Forderung Abwehren">Academia: Inkasso Forderung Abwehren</a></li>
+				<li role="listitem"><a href="https://issuu.com/sebastianenger" rel="follow" title="https://issuu.com/sebastianenger">Issuu: Sebastian Enger Profile</a></li>
+				<li role="listitem"><a href="https://www.lulu.com/spotlight/sebastianenger" rel="follow" title="Lulu: Sebastian Enger">Lulu: Sebastian Enger</a></li>
+				<li role="listitem"><a href="https://hs-mittweida.academia.edu/SebastianEnger" rel="follow" title="Academia: Sebastian Enger">Academia: Sebastian Enger</a></li>
+				<li role="listitem"><a href="https://issuu.com/sebastianenger/docs/2024-07-24_wie_kann_ich_eine_inkasso_forderung_abw" rel="follow" title="Issuu: Inkasso Forderung Abwehren">Issuu: Inkasso Forderung Abwehren</a></li>
